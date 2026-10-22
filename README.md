@@ -33,7 +33,6 @@ Official instructions: https://docs.github.com/en/pages/quickstart
 
 All case studies identify academic simulations or authorized training labs, rather than claiming professional production incident response. No fake log screenshots, fake projects, fake incident metrics, or fabricated proficiency scores were added. The sample terminal illustration on the homepage is decorative.
 
-Before publishing, verify that the content is accurate, and review whether you want your personal email address visible. Never publish proprietary Amazon systems, screenshots, unredacted sensitive logs, or private incident evidence. Add verified project deliverables if you are permitted to share them.
 
 ## Easy edits
 
